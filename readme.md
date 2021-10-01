@@ -3,8 +3,6 @@
 
 You can download dataset from [here](https://drive.google.com/drive/u/1/folders/1AQKp7Vt2-WOXwPjQGwCq_TWbSa5zlyZ4).
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
 - The data consists of flight information for the State of California for the year 2019. Flights to or from California.
 - Including variables like   departure arrival and  delays, day of the week,Day of the month., destinations, and more
 - I've made some adjustments that might help you analyze your data:
@@ -13,8 +11,6 @@ You can download dataset from [here](https://drive.google.com/drive/u/1/folders/
 - I have divided the origin and destination of the trip from the figure (city, state) in one variable, to put them in two separate variables.
 
 ## Summary of Findings
-
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
 
 - Weekend days have the fewest flights during the week which is a bit unexpected as we expect more flights to be available on weekend days as they are off work but there seems to be a lot of work flights  business days.
 - People like to spend their weekends in the City in which they live.
